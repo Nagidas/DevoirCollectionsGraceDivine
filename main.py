@@ -152,3 +152,8 @@ if __name__ == '__main__':
     for cle, valeur in Dic_ch.items():
         print(f"{cle} : {valeur}")
 
+    #5 Suppression de l'element a la cle numero 2
+    print("\n5) Suppression de l'element a la cle numero 2")
+    Dic_ch.pop("2")
+    print(Dic_ch)
+    
