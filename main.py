@@ -147,3 +147,8 @@ if __name__ == '__main__':
     print("\n3) Affichage des valeurs seulement")
     print(Dic_ch.values())
     
+    #4 Afficher les cles et les valeurs sous le format : Cle : Valeur
+    print("\n4) Affichage des cles et des valeurs sous le format: Cle : Valeur")
+    for cle, valeur in Dic_ch.items():
+        print(f"{cle} : {valeur}")
+
