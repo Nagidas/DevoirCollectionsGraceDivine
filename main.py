@@ -84,3 +84,14 @@ if __name__ == '__main__':
     Tup = tuple(sorted(Tup))
     print(Tup)
     
+    #4) Ajout d' un element a la fin de la tuple
+    print("\n4) Ajout d' un element a la fin de la tuple")
+    # On ne peut pas modifier une tuple directement, il faut d'abord convertir la tuple en liste
+    liste = list(Tup)
+    # Ajouter un element a la fin de la liste
+    liste.append(20)
+    # Reconvertir la liste en tuple
+    Tup = tuple(liste)
+    # Affichage du nouveau tuple 
+    print(Tup)
+    
