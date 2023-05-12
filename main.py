@@ -106,3 +106,8 @@ if __name__ == '__main__':
     print(Tup)
     print("\n\n")
   
+    # Question 3
+    print("Q3")
+    # Creation d'un set de 10 elements de type chaine de caractères
+    Set_ch = {"Janvier", "Fevrier", "Mars", "Avril", "Mai", "Juin", "Juillet", "Aout", "Septembre", "Octobre"}
+
