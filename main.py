@@ -111,3 +111,7 @@ if __name__ == '__main__':
     # Creation d'un set de 10 elements de type chaine de caractères
     Set_ch = {"Janvier", "Fevrier", "Mars", "Avril", "Mai", "Juin", "Juillet", "Aout", "Septembre", "Octobre"}
 
+    #1 Affichage du set
+    print("\n1) Affichage du set")
+    print(Set_ch)
+    
