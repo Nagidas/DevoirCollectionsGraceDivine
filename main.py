@@ -166,3 +166,8 @@ if __name__ == '__main__':
     Dic_ch["11"] = "onze"
     print(Dic_ch)
     
+    #8 Creation d'une copie du dictionnaire
+    print("\n8) Creation d'une copie du dictionnaire")
+    Dic_copy = Dic_ch.copy()
+    print(Dic_copy)
+        
