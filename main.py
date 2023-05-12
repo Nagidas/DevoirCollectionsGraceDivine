@@ -13,3 +13,12 @@ if __name__ == '__main__':
     print("2) Changement du contenu de l'element numero 5")
     List[4] = "soeur"
     print(List)
+    
+    #3- Creation d' une nouvelle liste
+    NList = []
+    # remplissage avec les elements de la liste precedente contenant la lettre "a"
+    for element in List:
+        if "a" in element:
+            NList.append(element)
+    print("\n3) les elements de la liste contenant la letter a:")
+    print(NList)
