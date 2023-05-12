@@ -125,3 +125,8 @@ if __name__ == '__main__':
     Set_ch.remove("Juin")
     print(Set_ch)
     
+    #4 Suppression du set
+    print("\n4) Suppression du set")
+    del Set_ch
+    print("\n\n")
+    
