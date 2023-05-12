@@ -47,3 +47,8 @@ if __name__ == '__main__':
     print("\n8) Ordonnancement de la liste")
     List.sort()
     print(List)
+    
+    #9 Afficher la liste au sens inverse
+    print("\n9) Affichage dans le sens inverse")
+    List.reverse()
+    print(List)
