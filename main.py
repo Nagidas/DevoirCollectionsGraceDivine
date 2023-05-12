@@ -22,3 +22,8 @@ if __name__ == '__main__':
             NList.append(element)
     print("\n3) les elements de la liste contenant la letter a:")
     print(NList)
+    
+    #4 Ajout d'un element a la fin de la liste
+    print("\n4) Ajout d'un element a la fin de la liste")
+    List.append("frere")
+    print(List)
