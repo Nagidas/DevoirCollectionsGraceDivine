@@ -33,3 +33,7 @@ if __name__ == '__main__':
     List.insert(2, "jumeaux")
     print(List)
  
+    #6 Suppression de l'element numero 3
+    print("\n6) Suppression de l'element numero 3")
+    List.remove("fils")
+    print(List)
