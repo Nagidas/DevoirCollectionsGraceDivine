@@ -101,3 +101,8 @@ if __name__ == '__main__':
     Tup = Tup[:3] + (96,) + Tup[3:]
     print(Tup)
 
+#6) Affichage de la nouvelle tuple
+    print("\n6) Affichage de la nouvelle tuple")
+    print(Tup)
+    print("\n\n")
+  
