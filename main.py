@@ -139,3 +139,7 @@ if __name__ == '__main__':
     print("\n1) Affichage du dictionnaire")
     print(Dic_ch)
     
+    #2 Afficher seulement les cles
+    print("\n2) Affichage des cles seulement")
+    print(Dic_ch.keys())
+    
