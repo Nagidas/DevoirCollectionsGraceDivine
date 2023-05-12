@@ -130,3 +130,9 @@ if __name__ == '__main__':
     del Set_ch
     print("\n\n")
     
+     # Question 4
+    print("Q4")
+    # Dictionnaire de 10 elements de type chaîne de caractères
+    Dic_ch = {"1": "un", "2": "deux", "3": "trois", "4": "quatre", "5": "cinq", "6": "six", "7": "sept", "8": "huit", "9": "neuf", "10": "dix"}
+
+    
