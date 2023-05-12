@@ -171,3 +171,7 @@ if __name__ == '__main__':
     Dic_copy = Dic_ch.copy()
     print(Dic_copy)
         
+    #9 Affichage des nouveaux elements
+    print("\n9) Affichage des nouveaux elements")
+    print(Dic_copy)
+
