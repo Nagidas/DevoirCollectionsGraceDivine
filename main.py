@@ -27,3 +27,9 @@ if __name__ == '__main__':
     print("\n4) Ajout d'un element a la fin de la liste")
     List.append("frere")
     print(List)
+
+   #5 Ajout d'un element a l'index numero 2
+    print("\n5) Ajout d'un element a l'index numero 2")
+    List.insert(2, "jumeaux")
+    print(List)
+ 
