@@ -120,3 +120,8 @@ if __name__ == '__main__':
     Set_ch.add("Novembre")
     print(Set_ch)
 
+    #3 Suppression d'un element
+    print("\n3) Suppression d'un element dans le set")
+    Set_ch.remove("Juin")
+    print(Set_ch)
+    
