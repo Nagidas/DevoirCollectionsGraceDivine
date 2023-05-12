@@ -52,3 +52,9 @@ if __name__ == '__main__':
     print("\n9) Affichage dans le sens inverse")
     List.reverse()
     print(List)
+
+    #10 Vider la liste
+    print("\n10) Vidange de la liste")
+    List.clear()
+    print(List)
+    
