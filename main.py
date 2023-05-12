@@ -135,4 +135,7 @@ if __name__ == '__main__':
     # Dictionnaire de 10 elements de type chaîne de caractères
     Dic_ch = {"1": "un", "2": "deux", "3": "trois", "4": "quatre", "5": "cinq", "6": "six", "7": "sept", "8": "huit", "9": "neuf", "10": "dix"}
 
+    #1 Afficher le dictionnaire
+    print("\n1) Affichage du dictionnaire")
+    print(Dic_ch)
     
