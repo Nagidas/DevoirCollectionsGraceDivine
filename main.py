@@ -37,3 +37,10 @@ if __name__ == '__main__':
     print("\n6) Suppression de l'element numero 3")
     List.remove("fils")
     print(List)
+    
+    #7. Suppression l'element a l'index numero 2
+    print("\n7) Suppression de l'element a l'index numero 2")
+    del List[2]
+    print(List)
+
+    
