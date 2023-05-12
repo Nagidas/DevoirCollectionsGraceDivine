@@ -115,3 +115,8 @@ if __name__ == '__main__':
     print("\n1) Affichage du set")
     print(Set_ch)
     
+    #2 Ajouter un element
+    print("\n2) Ajout d'un element dans le set")
+    Set_ch.add("Novembre")
+    print(Set_ch)
+
