@@ -71,3 +71,7 @@ if __name__ == '__main__':
     print("\nAffichage des elements de la tuple")
     print(Tup)
     
+    #1) Affichage du nombre de fois que valeur 3 apparait dans la tuple Tup
+    print("\n1) Affichage du nombre de fois que valeur 3 apparait dans la tuple")
+    print(Tup.count(3))
+
