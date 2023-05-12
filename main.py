@@ -161,3 +161,8 @@ if __name__ == '__main__':
     print("\n6) Affichage de l'element de la cle numero 5")
     print(Dic_ch["5"])
 
+    #7 Ajouter un nouvel element
+    print("\n7) Ajout d'un nouvel element")
+    Dic_ch["11"] = "onze"
+    print(Dic_ch)
+    
