@@ -58,3 +58,7 @@ if __name__ == '__main__':
     List.clear()
     print(List)
     
+    #11 Suppression de la liste
+    del List
+    print("\n\n")
+
