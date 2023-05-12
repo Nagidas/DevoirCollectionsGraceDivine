@@ -62,3 +62,8 @@ if __name__ == '__main__':
     del List
     print("\n\n")
 
+    # Question 2
+    print("Q2")
+    # Tuple de 10 elements de type entier
+    Tup = (23,52,14,78,69,5,14,6,44,9)
+    
