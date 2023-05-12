@@ -79,3 +79,8 @@ if __name__ == '__main__':
     print("\n2) Affichage du contenu de l'element numero 5")
     print(Tup[4])
     
+    #3) Ordonnancement de la tuple
+    print("\n3) Ordonnancement de la tuple")
+    Tup = tuple(sorted(Tup))
+    print(Tup)
+    
