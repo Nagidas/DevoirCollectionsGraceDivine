@@ -157,3 +157,7 @@ if __name__ == '__main__':
     Dic_ch.pop("2")
     print(Dic_ch)
     
+    #6 Affichage de l'element de la cle numero  5
+    print("\n6) Affichage de l'element de la cle numero 5")
+    print(Dic_ch["5"])
+
