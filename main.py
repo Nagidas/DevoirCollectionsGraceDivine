@@ -43,4 +43,7 @@ if __name__ == '__main__':
     del List[2]
     print(List)
 
-    
+    #8 Ordonner la liste
+    print("\n8) Ordonnancement de la liste")
+    List.sort()
+    print(List)
