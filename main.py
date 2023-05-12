@@ -143,3 +143,7 @@ if __name__ == '__main__':
     print("\n2) Affichage des cles seulement")
     print(Dic_ch.keys())
     
+    #3 Afficher seulement les valeurs
+    print("\n3) Affichage des valeurs seulement")
+    print(Dic_ch.values())
+    
