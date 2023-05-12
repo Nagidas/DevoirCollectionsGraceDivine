@@ -95,3 +95,9 @@ if __name__ == '__main__':
     # Affichage du nouveau tuple 
     print(Tup)
     
+    #5) Ajouter un element a l'index numero 3
+    print("\n5) Ajouter un element a l'index numero 3")
+    # On ne peut pas modifier une tuple directement, il faut creer une nouvelle tuple
+    Tup = Tup[:3] + (96,) + Tup[3:]
+    print(Tup)
+
